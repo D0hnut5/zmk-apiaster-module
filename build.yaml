@@ -78,3 +78,5 @@ include:
   - board: rp2040_zero
     shield: settings_reset
     artifact-name: rp2040-zero-reset
+  - board: seeeduino_xiao_ble
+    shield: apiaster_dongle prospector_adapter
